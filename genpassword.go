@@ -7,10 +7,8 @@ package main
 import (
 	"fmt"
 	"runtime"
-
 	"sync/atomic"
 	"time"
-
 	"os"
 )
 
